@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="IMG_20241102_214253.jpg" width="200" height="200"/>
+  <img src="SeeYouMother.jpg" width="200" height="200"/>
 </p>
 
 - **简介**：不处
