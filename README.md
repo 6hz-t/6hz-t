@@ -27,14 +27,3 @@
   </tr>
 </table>
 
-<div>&nbsp;</div>
-  </table>
-
-  <div>&nbsp;</div>
-  
-  <picture>
-    <img src="https://github.com/6hz-t/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
-  </picture>
-  
-
-  <div>&nbsp;</div>
