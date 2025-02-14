@@ -7,8 +7,8 @@
   
   ## Github Stats  
   <div align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=6hz-t&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6hz-t&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=6hz-t&hide_title=true&hide_border=true&show_icons=true&line_height=21" />
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6hz-t&theme=default&show_icons=true&exclude_repo=Obsidian-Notes,nmap,vvv-scanner,6hz-t.github.io,MyWechat,blog,intranet-api,resume,notes" /> 
   </div>
   
   <div>&nbsp;</div>
