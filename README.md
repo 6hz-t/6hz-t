@@ -7,12 +7,10 @@
   
   ## Github Stats  
 <div align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=6hz-t&hide_title=false&hide_border=false&show_icons=true&line_height=30" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6hz-t&theme=default&show_icons=true&exclude_repo=Obsidian-Notes,nmap,vvv-scanner,6hz-t.github.io,MyWechat,blog,intranet-api,resume,notes"/> 
-  </div>
-  
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=6hz-t&hide_title=false&hide_border=false&show_icons=true&line_height=30" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6hz-t&theme=default&show_icons=true&exclude_repo=Obsidian-Notes,nmap,vvv-scanner,6hz-t.github.io,MyWechat,blog,intranet-api,resume,notes"/> 
+    </div>
   <div>&nbsp;</div>
-  
   <br>
   
 ## Github contribution
