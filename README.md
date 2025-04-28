@@ -16,17 +16,7 @@
   <div>&nbsp;</div>
   <br>
   
-   ## Github Project
-  <div align="center">
-      <a href="https://github.com/6hz-t/CS2-Store-App">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=6hz-t&repo=CS2-Store-App" />
-    </a>
-    <a href="https://github.com/6hz-t/DailyFit">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=6hz-t&repo=DailyFit" />
-    </a>
-  </div>
-  <div>&nbsp;</div>
-  <br>
+  
   
 ## Github contribution
 <table>
